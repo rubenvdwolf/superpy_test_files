@@ -79,8 +79,7 @@ with open('names.csv', 'r') as csv_file:
 <!-- Table -->
 | Name| Email|
 |-----|------|
-|Ruben|ruben.vanderwolf@gmail.com|
-|Lisan|lisanvdk@gmail.com|
+
 
 
 <!-- Task lists -->
